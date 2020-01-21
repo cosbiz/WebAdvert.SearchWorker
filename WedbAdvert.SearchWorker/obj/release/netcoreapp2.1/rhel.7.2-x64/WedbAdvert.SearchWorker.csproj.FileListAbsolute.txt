@@ -1,0 +1,11 @@
+/Users/Mihalache/Documents/projects/WebAdvert.Web/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/bin/release/netcoreapp2.1/rhel.7.2-x64/WedbAdvert.SearchWorker.deps.json
+/Users/Mihalache/Documents/projects/WebAdvert.Web/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/bin/release/netcoreapp2.1/rhel.7.2-x64/WedbAdvert.SearchWorker.runtimeconfig.json
+/Users/Mihalache/Documents/projects/WebAdvert.Web/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/bin/release/netcoreapp2.1/rhel.7.2-x64/WedbAdvert.SearchWorker.runtimeconfig.dev.json
+/Users/Mihalache/Documents/projects/WebAdvert.Web/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/bin/release/netcoreapp2.1/rhel.7.2-x64/WedbAdvert.SearchWorker.dll
+/Users/Mihalache/Documents/projects/WebAdvert.Web/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/bin/release/netcoreapp2.1/rhel.7.2-x64/WedbAdvert.SearchWorker.pdb
+/Users/Mihalache/Documents/projects/WebAdvert.Web/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/obj/release/netcoreapp2.1/rhel.7.2-x64/WedbAdvert.SearchWorker.csprojAssemblyReference.cache
+/Users/Mihalache/Documents/projects/WebAdvert.Web/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/obj/release/netcoreapp2.1/rhel.7.2-x64/WedbAdvert.SearchWorker.AssemblyInfoInputs.cache
+/Users/Mihalache/Documents/projects/WebAdvert.Web/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/obj/release/netcoreapp2.1/rhel.7.2-x64/WedbAdvert.SearchWorker.AssemblyInfo.cs
+/Users/Mihalache/Documents/projects/WebAdvert.Web/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/obj/release/netcoreapp2.1/rhel.7.2-x64/WedbAdvert.SearchWorker.dll
+/Users/Mihalache/Documents/projects/WebAdvert.Web/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/obj/release/netcoreapp2.1/rhel.7.2-x64/WedbAdvert.SearchWorker.pdb
+/Users/Mihalache/Documents/projects/WebAdvert.Web/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/bin/release/netcoreapp2.1/rhel.7.2-x64/appsettings.json

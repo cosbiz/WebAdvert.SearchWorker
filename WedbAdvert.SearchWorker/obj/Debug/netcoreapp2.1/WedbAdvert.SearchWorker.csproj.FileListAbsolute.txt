@@ -1,0 +1,17 @@
+/Users/Mihalache/Documents/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/bin/Debug/netcoreapp2.1/WedbAdvert.SearchWorker.deps.json
+/Users/Mihalache/Documents/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/bin/Debug/netcoreapp2.1/WedbAdvert.SearchWorker.dll
+/Users/Mihalache/Documents/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/bin/Debug/netcoreapp2.1/WedbAdvert.SearchWorker.pdb
+/Users/Mihalache/Documents/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/obj/Debug/netcoreapp2.1/WedbAdvert.SearchWorker.csprojAssemblyReference.cache
+/Users/Mihalache/Documents/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/obj/Debug/netcoreapp2.1/WedbAdvert.SearchWorker.AssemblyInfoInputs.cache
+/Users/Mihalache/Documents/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/obj/Debug/netcoreapp2.1/WedbAdvert.SearchWorker.AssemblyInfo.cs
+/Users/Mihalache/Documents/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/obj/Debug/netcoreapp2.1/WedbAdvert.SearchWorker.dll
+/Users/Mihalache/Documents/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/obj/Debug/netcoreapp2.1/WedbAdvert.SearchWorker.pdb
+/Users/Mihalache/Documents/projects/WebAdvert.Web/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/bin/Debug/netcoreapp2.1/WedbAdvert.SearchWorker.deps.json
+/Users/Mihalache/Documents/projects/WebAdvert.Web/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/bin/Debug/netcoreapp2.1/WedbAdvert.SearchWorker.dll
+/Users/Mihalache/Documents/projects/WebAdvert.Web/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/bin/Debug/netcoreapp2.1/WedbAdvert.SearchWorker.pdb
+/Users/Mihalache/Documents/projects/WebAdvert.Web/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/obj/Debug/netcoreapp2.1/WedbAdvert.SearchWorker.csprojAssemblyReference.cache
+/Users/Mihalache/Documents/projects/WebAdvert.Web/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/obj/Debug/netcoreapp2.1/WedbAdvert.SearchWorker.AssemblyInfoInputs.cache
+/Users/Mihalache/Documents/projects/WebAdvert.Web/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/obj/Debug/netcoreapp2.1/WedbAdvert.SearchWorker.AssemblyInfo.cs
+/Users/Mihalache/Documents/projects/WebAdvert.Web/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/obj/Debug/netcoreapp2.1/WedbAdvert.SearchWorker.dll
+/Users/Mihalache/Documents/projects/WebAdvert.Web/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/obj/Debug/netcoreapp2.1/WedbAdvert.SearchWorker.pdb
+/Users/Mihalache/Documents/projects/WebAdvert.Web/WebAdvert.SearchWorker/WedbAdvert.SearchWorker/bin/Debug/netcoreapp2.1/appsettings.json
